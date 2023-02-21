@@ -1,8 +1,7 @@
 #include "main.h"
 /**
  * main - write a program that print _putshar
- * description: hghihjlùbhhij
- * return: always 0
+ * Return: always 0
 */
 int main(void)
 {
