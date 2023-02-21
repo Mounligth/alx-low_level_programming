@@ -2,7 +2,7 @@
 
 
 /**
- * print_alphabet - write a function that prints the alphabet, in lowercase
+ * print_alphabet_x10 - write a function that prints the alphabet, in lowercase
 */
 void print_alphabet_x10(void)
 {
