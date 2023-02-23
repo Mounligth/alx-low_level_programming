@@ -5,9 +5,11 @@
  * @c: is a integer
  * return 0 or 1
  */
+
 int _islower(int c)
 {
 if (c <= 122 && c >= 97)
     return(1);
-return (0);
+else
+    return (0);
 }
