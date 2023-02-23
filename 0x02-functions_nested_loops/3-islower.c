@@ -5,6 +5,7 @@
  * return 0 or 1
  *return  0 '_islower'
  *return value '_islower'
+ *return value 0'_islower'
 */
 int _islower(int c)
 {
