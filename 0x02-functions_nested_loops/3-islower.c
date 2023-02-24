@@ -8,7 +8,10 @@
  * return value  122 && 97 '_islower'
  * return value of '_islower'
 */
-/*return value of '_islower'*/int _islower(int c)
+/**
+ * return value of '_islower'
+*/
+int _islower(int c)
 {
 if (c <= 122 && c >= 97)
 return (1);
