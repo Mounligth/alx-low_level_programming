@@ -1,5 +1,4 @@
 #include"main.h"
-
 /**
  * _islower - write a function that checks the lowercase character
  * @c: is a integer
@@ -12,6 +11,6 @@
 int _islower(int c)
 {
 if (c <= 122 && c >= 97)
-    return(1);
+    return (1);
 return (0);
 }
